@@ -25,7 +25,6 @@ h2 {
     color:#A4B0F5;
     font-weight: bold;
     padding-top: 30px;
-    margin-left: 50px;
 }
 
 .image {
@@ -45,5 +44,4 @@ p {
     color:#000000
     display: inline-block;
     inline-size: 500px;
-    margin-left: 50px;
 }
