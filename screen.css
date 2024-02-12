@@ -26,6 +26,7 @@ h1 {
 
 h2 {
     color:#000000;
+    font-weight: bold;
     font-size: 42px;
     padding-left: 150px;
     padding-right: 150px;
@@ -34,6 +35,7 @@ h2 {
 
 h3 {
     color:#A4B0F5;
+    font-weight: bold;
     font-size: 36px;
     padding-top: 30px;
 }
