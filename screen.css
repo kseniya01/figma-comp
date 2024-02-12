@@ -50,7 +50,6 @@ h3 {
 }
 
 .about {
-    float: right;
     margin-right: 50px;
     gap: 10px;
     display: inline-block;
