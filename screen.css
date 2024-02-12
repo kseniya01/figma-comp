@@ -44,6 +44,7 @@ h3 {
 .image {
     float: left;
     margin-left: 10px;
+    display: flex;
     gap: 10px;
 }
 
