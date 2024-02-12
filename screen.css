@@ -37,6 +37,8 @@ h2 {
 .about {
     display: inline-block;
     inline-size: 500px;
+    padding-bottom: 50px;
+    padding-top: 50px;
 }
 
 p {
