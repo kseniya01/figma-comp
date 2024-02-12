@@ -39,6 +39,8 @@ h3 {
 
 .about {
     margin-left: 50px;
+    display: inline-block;
+    inline-size: 500px;
 }
 
 p {
