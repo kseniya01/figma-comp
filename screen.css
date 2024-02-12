@@ -3,7 +3,7 @@
 body {
     background: #FFFFFF;
     color: #000000;
-    margin-top: 100px;
+    margin-top: 50px;
     font-family: Arial, Helvetica, sans-serif;
 }
 
@@ -11,9 +11,10 @@ h1 {
     background: #A4B0F5;
     color: #000000;
     font-weight: bolder;
-    margin-top: 100px;
+    margin-top: 50px;
     padding-left: 20px;
     padding-bottom: 10px;
+    padding-top: 10px;
 }
 
 .heading2 {
