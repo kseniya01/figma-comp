@@ -11,7 +11,7 @@ h1 {
     background: #A4B0F5;
     color: #000000;
     font-weight: bolder;
-    font-size: larger;
+    font-size: 36px;
     margin-top: 50px;
     padding-left: 20px;
     padding-bottom: 20px;
@@ -24,7 +24,7 @@ h1 {
 
 h2 {
     color:#A4B0F5;
-    font-weight: bold;
+    font-weight: 32px;
     font-size: large;
     padding-top: 30px;
 }
@@ -45,6 +45,7 @@ h2 {
 
 p {
     color:#000000
+    font-weight: 20px;
     display: inline-block;
     inline-size: 500px;
 }
