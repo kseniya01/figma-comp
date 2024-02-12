@@ -54,7 +54,7 @@ h3 {
     display: inline-block;
     inline-size: 500px;
     padding-bottom: 20px;
-    padding-top: 50px;
+    padding-top: 20px;
 }
 
 p {
@@ -64,4 +64,3 @@ p {
     text-align: left
     display: inline-block;
     inline-size: 500px;
-}
