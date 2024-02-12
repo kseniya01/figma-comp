@@ -32,6 +32,8 @@ h2 {
     margin-left: 200px;
     margin-top: 50px;
     gap: 10px;
+    width: 300px;
+    height: 250px;
 }
 
 .about {
