@@ -1,135 +1,63 @@
 /* Add screen styles below */
-:root {
-    --text-color: #424242;
-    --background-color: #E9E9E9;
-    --h1-font: 125px;
-    --h2-font: 55px;
-}
 
 body {
-    background: #E9E9E9;
-    color: #424242;
+    background: #FFFFFF;
+    color: #000000;
     margin-top: 0px;
 }
 
-.polaroid {
-    margin: 0 auto;
-}
-
 h1 {
-    color: var(--text-color);
+    background: #A4B0F5;
+    color: #000000;
     font-weight: bolder;
-    font-size: var(--h1-font);
-    font-family: Arial, Helvetica, sans-serif;
-    text-align: center;
+    font-size: 62px;
+    text-align: left
     margin-top: 50px;
-    padding-left: 500px;
-    padding-right: 500px;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-bottom: 20px;
     padding-top: 50px;
 }
 
-img {
-    padding-left: 100px;
-    padding-right: 100px;
-}
-
-.center {
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    margin-top: auto;
-    margin-bottom: auto;
-    width: 50%;
-}
-
-.section1 {
-    padding-left: 100px;
-    padding-right: 100px;
-}
-
-.section2 {
-    padding-left: 100px;
-    padding-right: 100px;
-    padding-top: 50px;
+.heading2 {
+    text-align: center;
 }
 
 h2 {
-    color: var(--text-color);
+    color:#000000;
     font-weight: bold;
-    font-size: 55px;
+    font-size: 62px;
     font-family: Arial, Helvetica, sans-serif;
-    text-align: center;
     margin-top: 50px;
-    padding-left: 50px;
-    padding-right: 50px;
-    padding-bottom: 20px;
-    padding-top: 20px;
-}
-
-.card {
-    background: linear-gradient(#E2E2E2, #D6D7D6);
-    color: var(--text-color);
-    margin: 0 auto;
-    width: 700px;
-    height: auto;
-    border-radius: 20px;
-    padding: 20px;
-}
-
-.card div {
-    padding: 20px;
-}
-
-h3 {
-    color: var(--text-color);
-    font-weight: bold;
-    font-size: 30px;
-    font-family: Arial, Helvetica, sans-serif;
-    text-align: left;
-    margin-top: 30px;
-    padding-left: 50px;
-    padding-right: 50px;
-    padding-bottom: 20px;
-    padding-top: 20px;
-}
-
-ul {
-    color: var(--text-color);
-    font-size: 25px;
-    font-family: Arial, Helvetica, sans-serif;
-    padding-left: 100px;
-    padding-right: 100px;
+    padding-left: 300px;
+    padding-right: 300px;
     padding-top: 50px;
 }
 
-.email {
-    float: left;
-    margin-left:10px;
-    display: flex;
-    gap: 10px;
-    background: #ECECEC;
-    color: var(--text-color);
-    font-size: 20px;
+h3 {
+    color:#A4B0F5;
+    font-weight: bold;
+    font-size: 45px;
     font-family: Arial, Helvetica, sans-serif;
-    text-align: center;
 }
 
-.button {
+.image {
+    float: left;
+    margin-left: 10px;
+    display: flex;
+    gap: 10px;
+}
+
+.about {
     gap: 10px;
     display: inline-block;
     inline-size: 500px;
-    background: #FF3F3C;
-    color: #FFFFFF;
-    font-size: 20px;
-    font-family: Arial, Helvetica, sans-serif;
-    text-align: center;
 }
 
 p {
-    color: var(--text-color);
+    color:#000000;
     font-size: 25px;
     font-family: Arial, Helvetica, sans-serif;
-    text-align: left;
-    padding-left: 100px;
-    padding-right: 100px;
-}
+    text-align: left
+    display: inline-block;
+    inline-size: 500px;
